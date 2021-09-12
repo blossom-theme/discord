@@ -8,8 +8,6 @@ beneath cherry blossoms.
 
   - [Mountain Theme](https://github.com/mountain-theme/discord) for the base theme.
 
-<br>
-
 #### Screenshot
 
 ![Screenshot of the discord theme](https://github.com/blossom-theme/discord/blob/main/scrot/screen.png "Blossom Discord Theme")
