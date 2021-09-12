@@ -4,6 +4,8 @@
 to be alive  
 beneath cherry blossoms.
 
+#### Credit
+
   - [Mountain Theme](https://github.com/mountain-theme/discord) for the base theme.
 
 <br>
