@@ -10,6 +10,8 @@ beneath cherry blossoms.
 
 <br>
 
+#### Screenshot
+
 ![Screenshot of the discord theme](https://github.com/blossom-theme/discord/blob/main/scrot/screen.png "Blossom Discord Theme")
 
 #### Install
