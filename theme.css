@@ -1,0 +1,79 @@
+@import url("https://kraxen72.github.io/harmony-discord/main.css"); 
+:root {
+    /*gruvbox override*/
+    --Colleft: var(--slate-background);
+    --background-primary: var(--slate-background-light);
+    --background-primary: #ede6e3;
+    --Colleft: #e6dad6;
+    --background-secondary: var(--Colleft);
+    --background-tertiary: #e6dad6;
+    --ColAccent: #ede6e3;
+    --ColAccentAlpha: #ac8a8c20;
+
+    /*set respecitve colors to Colleft - ignore*/
+    --ColServerSelBG: #e6dad6;
+    --ColChannelList: #e6dad6;
+    --ColTitleBar: #e6dad6;
+    --ColMemberList:#e6dad6;
+    --ColLink: #e6dad6;
+    --text-link: #675c56;
+
+    --text-fix: #675c56;
+
+    --text-normal: var(--text-fix);
+    --interactive-active: var(--text-fix);
+    --header-primary: #685c56;
+
+
+}
+.searchBarComponent-32dTOx, .search-36MZv- 
+{background-color: var(--background-secondary) !important;}
+
+.inspector-S2gM3e, .input-1Rv96N, .uploadModal-2ifh8j, .footer-3mqk7D.hasSpoilers-1IRtQC, .theme-dark .root-1gCeng, .message-2qRu38
+{background-color: var(--background-primary) !important}
+
+.lookFilled-1Gx00P.colorBrand-3pXr91 
+{background-color: #ede6e3 !important;}
+
+.autocompleteInner-zh20B_ 
+{background-color: var(--Colleft) !important;}
+
+::selection {background-color: var(--ColAccentAlpha) !important;}
+
+.selected-1Tbx07 {background-color: var(--background-modifier-selected) !important;}
+.body-3ND3kc, .theme-dark .body-3iLsc4, .theme-dark .footer-1fjuF6, .theme-dark .footer-2gL1pp, .section-2gLsgF {background-color: #e6dad6;}
+.connectedAccount-36nQx7 {border: 1px solid #e6dad6 !important;}
+
+.colorDefault-2K3EoJ.focused-3afm-j {background-color: var(--background-modifier-selected) !important;}
+.button-1YfofB.buttonColor-7qQbGO {color: #ede6e3 !important; }
+
+.headerSpotify-zpWxgT, .topSectionSpotify-1lI0-P {
+    z-index: 1;
+    background: #8aac8b;
+}
+
+.headerPlaying-j0WQBV, .topSectionPlaying-1J5E4n {
+    z-index: 1;
+    background: #aca98a;
+}
+
+.verified-1eC5dy:not(.disableColor-MwOAZf) > svg path { fill: #8f8aac}
+
+.topSectionSpotify-1lI0-P > header > button{
+    background: #ede6e3 !important;
+    color: #f0f0f0 !important;
+}
+
+.avatar-3EQepX {
+    transition: 250ms ease !important;
+}
+
+.avatar-3EQepX:hover {
+    transform: scale(1.5);
+}
+
+.toolbar-1t6TWx [aria-label="Member List"] { display: block !important; }   
+
+.headerNormal-T_seeN .topSectionNormal-2-vo2m {
+    background: #685c56 !important;
+}
